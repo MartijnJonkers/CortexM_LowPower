@@ -1,0 +1,1 @@
+@start "" AD5Publish.exe
